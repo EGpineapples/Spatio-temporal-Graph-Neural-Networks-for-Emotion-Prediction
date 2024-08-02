@@ -16,7 +16,10 @@ This thesis presents a novel approach to modeling physiological responses to urb
 - Represents transportation patterns as a relational graph
 - Three types of edges: track, onset, and next edges
 
+![Content Encoder](Figures/model.png)
 ![Content Encoder](Figures/Content%20Encoder.png)
+
+
 
 ### Model Architecture
 
